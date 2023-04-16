@@ -1,0 +1,5 @@
+url: '{url_to_redmine}'
+key: '{user_api_key}'
+version: '{redmine_version}'
+project: '{project_name}'
+savepath: '{path_to_save_report}'
